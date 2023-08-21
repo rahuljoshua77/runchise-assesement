@@ -26,11 +26,6 @@ Running the Test
 
 The test will execute the specified scenario on the Wetwo.id website, following the steps mentioned in the repository.
 
-Test Files and Recording
-------------------------
-
-The integration test source files and a recording of the integration test demo are available in this repository. You can find them in the `tests` folder.
-
 Issues and Contributions
 ------------------------
 
